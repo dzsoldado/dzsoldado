@@ -1,21 +1,22 @@
 ## Hello!
----
+
 I'm Walid, i'm a fresh Software Engineering graduate and i'm interested in Web Development.
 
 - 🔭 I’m currently working with: ` html, .css, .js, .py `
 - 🌱 I’m currently learning `React.js`
 - ❤️ I love OpenSource Movement 
 - ⚡ Available for Freelance projects/internship opportunities.
-<br /><br /><br /><br />
-
-<img src="hero.gif"/>
 <br /><br />
 
+<img src="hero.gif"/>
+<br />
 
 - ⚡ Oh yeah and i love Video Games
+<br />
 
+---
 
-
+<p style="text-align:center">Handcafted by me (dzsoldado)</p>
 <!--
 **dzsoldado/dzsoldado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,3 +30,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+

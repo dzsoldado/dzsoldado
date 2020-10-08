@@ -16,7 +16,7 @@ I'm Walid, i'm a fresh Software Engineering graduate and i'm interested in Web D
 
 ---
 
-<p style="text-align:center">Handcafted by me (dzsoldado)</p>
+Handcafted by men follow me everywhere @dzsoldado
 <!--
 **dzsoldado/dzsoldado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

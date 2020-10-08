@@ -7,7 +7,7 @@ I'm Walid, i'm a fresh Software Engineering graduate and i'm interested in Web D
 - ❤️ I love OpenSource Movement 
 - ⚡ Available for Freelance projects/internship opportunities.
 
-
+<div style="text-align:center"><img src="hero.gif"/></div>
 
 - ⚡ Oh yeah and i love Video Games
 

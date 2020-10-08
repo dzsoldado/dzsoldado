@@ -6,8 +6,11 @@ I'm Walid, i'm a fresh Software Engineering graduate and i'm interested in Web D
 - 🌱 I’m currently learning `React.js`
 - ❤️ I love OpenSource Movement 
 - ⚡ Available for Freelance projects/internship opportunities.
+<br /><br /><br /><br />
 
-<div style="text-align:center"><img src="hero.gif"/></div>
+<img src="hero.gif"/>
+<br /><br />
+
 
 - ⚡ Oh yeah and i love Video Games
 

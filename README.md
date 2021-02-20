@@ -1,6 +1,6 @@
 ## Hello!
 
-I'm Walid, i'm a fresh Software Engineering graduate and i'm interested in Web Development.
+I'm Walid, i'm a Software Engineer, mainly interested in Web Development.
 
 - 🔭 I’m currently working with: ` .html, .css, .js, .py `
 - ❤️ I love OpenSource Movement 

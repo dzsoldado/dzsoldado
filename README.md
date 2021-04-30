@@ -2,7 +2,7 @@
 
 I'm Walid, i'm a Software Engineer, mainly interested in Web Development.
 
-- 🔭 I’m currently working with: ` .html, .css, .js, .py `
+- 🔭 I’m currently working with: ` .html, .css, .js, .py, .java`
 - ❤️ I love OpenSource Movement 
 - ⚡ Available for Freelance projects/internship opportunities.
 <br /><br />

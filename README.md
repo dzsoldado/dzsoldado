@@ -10,23 +10,9 @@ I'm Walid, i'm a Software Engineer, mainly interested in Web Development.
 <img src="hero.gif"/>
 <br />
 
-- ⚡ Oh yeah and i love Video Games
+- ⚡ Oh, and I'm a gamer!
 <br />
 
 ---
 
 Handcafted by me, follow me everywhere @dzsoldado
-<!--
-**dzsoldado/dzsoldado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-

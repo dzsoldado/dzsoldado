@@ -1,6 +1,6 @@
 ## Hello world!
 
-I'm Walid, i'm a Software Engineer, mainly interested in Web Development.
+Software Engineer, mainly interested in Web Development.
 
 - 🔭 Currently working with: ` .html, .css, .js, .py, .java`.
 - ❤️ Interested in the “Open Source” movement.

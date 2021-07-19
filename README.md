@@ -10,7 +10,6 @@ Software Engineer, mainly interested in Web Development.
 <img src="hero.gif"/>
 <br />
 
-- ⚡ Oh, and I'm a gamer!
 <br />
 
 ---

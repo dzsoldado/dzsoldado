@@ -8,7 +8,7 @@ Software Engineer, mainly interested in Web Development.
 - ❤️ Interested in the “Open Source” movement.
 - 🌱 Learning more about web development.
 - 👔 Available for work.
-- 💬 Ask me about Video Games, Programming or Football.
+- 💬 Ask me about Video Games or Programming.
 
 <br />
 

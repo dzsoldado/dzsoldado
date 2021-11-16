@@ -5,7 +5,7 @@
 Software Engineer, mainly interested in Web Development.
 
 - 🔭 Currently coding in: ` .html, .css, .js, .py`.
-- ❤️ Interested in the “Open Source” movement.
+- ❤️ Loves Open Source.
 - 🌱 Learning more about web development.
 - 👔 Available for work.
 - 💬 Ask me about Video Games or Programming.

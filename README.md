@@ -2,7 +2,7 @@
 
 <img align="right" src="https://api.daily.dev/devcards/6795ea412ea041a3b07a5b150f00592e.png?r=fr8" width="256" alt="Soldado's Dev Card"/>
 
-Software Engineer, mainly interested in Web Development.
+Software Person.
 
 - 🔭 Currently coding in: ` .html, .css, .js, .py`.
 - ❤️ Loves Open Source.

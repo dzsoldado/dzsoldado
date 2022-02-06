@@ -15,7 +15,7 @@
       </p>
     </td>
     <td >
-      <img align="center" src="https://api.daily.dev/devcards/6795ea412ea041a3b07a5b150f00592e.png?r=3ik" width="256" alt="Soldado's Dev Card"/>
+      <img align="center" src="https://api.daily.dev/devcards/6795ea412ea041a3b07a5b150f00592e.png?r=3ik" width="356" alt="Soldado's Dev Card"/>
     </td>
   </tr>
 </table>

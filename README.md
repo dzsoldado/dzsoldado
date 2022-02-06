@@ -3,7 +3,7 @@
 <table >
   <tr>
     <td valign="center">
-      <img width="500" height="1" >
+      <img width="400" height="1" >
       <h3 align="center">I'm a Software Person.</h3>
       <br />
       <p>

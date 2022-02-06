@@ -1,15 +1,23 @@
 ## Hello world!
 
-<img align="right" src="https://api.daily.dev/devcards/6795ea412ea041a3b07a5b150f00592e.png?r=3ik" width="256" alt="Soldado's Dev Card"/>
-
-I'm a Software Person.
-
-- 🔭 Currently coding in: ` .html, .css, .js, .py`.
-- ❤️ Loves Open Source.
-- 🌱 Learning more about web development.
-- 👔 Available for work.
-- 💬 Ask me about Video Games or Programming.
-
+<table>
+  <tr>
+    <td valign="center">
+      <p align="center">I'm a Software Person.</p>
+      <br />
+      <p>
+        🔭 Currently coding in: `.html, .css, .js, .py`.<br />
+        ❤️ Loves Open Source. <br />
+        🌱 Learning more about web development. <br />
+        👔 Available for work. <br />
+        💬 Ask me about Video Games or Programming. <br />
+      </p>
+    </td>
+    <td >
+      <img align="right" src="https://api.daily.dev/devcards/6795ea412ea041a3b07a5b150f00592e.png?r=3ik" width="256" alt="Soldado's Dev Card"/>
+    </td>
+  </tr>
+</table>
 <br />
 
 ## ⚙ Environment

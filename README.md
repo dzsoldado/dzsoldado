@@ -1,17 +1,18 @@
-## Hello world!
+# Hello world!
 
 <table >
   <tr>
     <td valign="center">
       <img width="500" height="1" >
-      <p align="center">I'm a Software Person.</p>
+      <h3 align="center">I'm a Software Person.</h3>
       <br />
       <p>
-        🔭 Currently coding in: `.html, .css, .js, .py`.<br />
+        🎓 Holder of a degree in Computer Science -NLP-. <br />
+        🔭 Currently coding in: `.html, .css, .js, .py`. <br />
         ❤️ Loves Open Source. <br />
         🌱 Learning more about web development. <br />
         👔 Available for work. <br />
-        💬 Ask me about Video Games or Programming. <br />
+        💬 Ready to talk about Programming, Video Games or anything about computers. <br />
       </p>
     </td>
     <td >
@@ -33,6 +34,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL)

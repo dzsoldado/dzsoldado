@@ -1,8 +1,9 @@
 ## Hello world!
 
-<table>
+<table >
   <tr>
     <td valign="center">
+      <img width="500" height="1" >
       <p align="center">I'm a Software Person.</p>
       <br />
       <p>
@@ -14,7 +15,7 @@
       </p>
     </td>
     <td >
-      <img align="right" src="https://api.daily.dev/devcards/6795ea412ea041a3b07a5b150f00592e.png?r=3ik" width="256" alt="Soldado's Dev Card"/>
+      <img align="center" src="https://api.daily.dev/devcards/6795ea412ea041a3b07a5b150f00592e.png?r=3ik" width="256" alt="Soldado's Dev Card"/>
     </td>
   </tr>
 </table>

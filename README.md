@@ -35,6 +35,7 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
+![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL)

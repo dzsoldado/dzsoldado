@@ -29,6 +29,13 @@
 
 <br />
 
+## 📛 Badges
+
+<p align="center">
+  <img src="google-it-automation-certificate.png">
+</p>
+
+
 ## ⚡Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)

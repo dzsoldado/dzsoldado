@@ -11,7 +11,6 @@
         🔭 Currently coding in: `.html, .css, .js, .py`. <br />
         ❤️ Loves Open Source. <br />
         🌱 Learning more about web development. <br />
-        👔 Available for work. <br />
         💬 Ready to talk about Programming, Video Games or anything about computers. <br />
       </p>
     </td>

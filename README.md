@@ -8,7 +8,7 @@
       <br />
       <p>
         🎓 Holder of a degree in Computer Science -NLP-. <br />
-        🔭 Currently coding in: `.html, .css, .js, .py`. <br />
+        🔭 Mainly coding in: `.html, .css, .js, .py`. <br />
         ❤️ Loves Open Source. <br />
         🌱 Learning more about web development. <br />
         💬 Ready to talk about Programming, Video Games or anything about computers. <br />
@@ -41,6 +41,7 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=React)
 ![React](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=Express)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)

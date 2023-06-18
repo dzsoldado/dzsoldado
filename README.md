@@ -22,7 +22,7 @@
 <br />
 
 ## ⚙ Environment
-![](https://img.shields.io/badge/OS-WIN10/UBUNTU-informational?style=flat&logo=Ubuntu&logoColor=white&color=E95420)
+![](https://img.shields.io/badge/OS-WIN/UBUNTU-informational?style=flat&logo=Ubuntu&logoColor=white&color=E95420)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=4479A1)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=GNUBash&logoColor=white&color=4EAA25)
 

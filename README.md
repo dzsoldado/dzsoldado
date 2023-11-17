@@ -45,6 +45,7 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=React)
 ![Vue](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=Vue.js)
 ![Express](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=Express)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash)

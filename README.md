@@ -1,6 +1,6 @@
 # Hello world!
 
-<table >
+<table style="width: 100%">
   <tr>
     <td valign="center">
       <img width="400" height="1" >
@@ -20,6 +20,15 @@
   </tr>
 </table>
 <br />
+
+## 📊 Stats
+
+<p align="center" >
+<img width="500" src="https://wakatime.com/share/@e548ff0a-eb42-481c-9c89-6a532d1780d3/cf32aef5-570a-4239-87d5-a66873de06c2.svg">
+</p>
+
+<br />
+
 
 ## ⚙ Environment
 ![](https://img.shields.io/badge/OS-WIN/UBUNTU-informational?style=flat&logo=Ubuntu&logoColor=white&color=E95420)

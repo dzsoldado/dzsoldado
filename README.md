@@ -24,7 +24,7 @@
 ## 📊 Stats
 
 <p align="center" >
-<img width="500" src="https://wakatime.com/share/@e548ff0a-eb42-481c-9c89-6a532d1780d3/ad2fa6f1-8874-47bb-91bc-b212c49486c1.svg">
+<img width="500" src="https://wakatime.com/share/@e548ff0a-eb42-481c-9c89-6a532d1780d3/e57fae44-905e-4ff9-9ad2-aa320f7adc14.svg">
 </p>
 
 <br />

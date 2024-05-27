@@ -1,24 +1,17 @@
 # Hello world!
 
-<table style="width: 100%">
-  <tr>
-    <td valign="center">
-      <img width="400" height="1" >
-      <h3 align="center">I'm a Software Person.</h3>
-      <br />
-      <p>
-        🎓 Holder of a degree in Computer Science -NLP-. <br />
-        🔭 Mainly coding in: `.html, .css, .js, .ts, .py`. <br />
-        ❤️ Loves Open Source. <br />
-        🌱 Learning more about web development. <br />
-        💬 Ready to talk about Programming, Video Games or anything about computers. <br />
-      </p>
-    </td>
-    <td >
-      <img align="center" src="https://api.daily.dev/devcards/6795ea412ea041a3b07a5b150f00592e.png?r=3ik" width="400" alt="Soldado's Dev Card"/>
-    </td>
-  </tr>
-</table>
+
+<h3 align="center">I'm a Software Person.</h3>
+<br />
+<p>
+  🎓 Holder of a degree in Computer Science -NLP-. <br />
+  🔭 Mainly coding in: `.html, .css, .js, .ts, .py`. <br />
+  ❤️ Loves Open Source. <br />
+  🌱 Learning more about web development. <br />
+  💬 Ready to talk about Programming, Video Games or anything about computers. <br />
+</p>
+</td>
+
 <br />
 
 ## 📊 Stats

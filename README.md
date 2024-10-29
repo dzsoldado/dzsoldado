@@ -8,7 +8,7 @@
   🔭 Mainly coding in: `.html, .css, .js, .ts, .py`. <br />
   ❤️ Loves Open Source. <br />
   🌱 Learning more about web development. <br />
-  💬 Ready to talk about Programming, Video Games or anything about computers. <br />
+  💬 Ready to talk about Programming, Video Games, or anything about computers. <br />
 </p>
 </td>
 
@@ -34,12 +34,12 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript)
 ![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=Vue.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=React)
-![Express](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=Express)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Express](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=Express)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash)

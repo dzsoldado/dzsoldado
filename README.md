@@ -4,7 +4,7 @@
 <h3 align="center">I'm a Software Person.</h3>
 <br />
 <p>
-  🎓 Holder of a degree in Computer Science -NLP-. <br />
+  🎓 NLP Degree. <br />
   🔭 Mainly coding in: `.html, .css, .js, .ts, .py`. <br />
   ❤️ Loves Open Source. <br />
   🌱 Learning more about web development. <br />

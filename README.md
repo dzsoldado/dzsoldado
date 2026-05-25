@@ -61,5 +61,3 @@
   <img src="hero.gif">
 </p>
 
----
-<p align="center">Handcafted by me <em><b><a href="https://github.com/dzsoldado">@dzsoldado</a></b></em> </p>
